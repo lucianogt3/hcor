@@ -4,7 +4,5 @@ __pycache__/
 instance/
 logs/
 debug/
-downloads/
 .env
-playwright/
 node_modules/
