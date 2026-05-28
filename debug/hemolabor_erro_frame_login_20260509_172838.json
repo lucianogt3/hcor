@@ -1,0 +1,22 @@
+[
+    {
+        "frame_index": 0,
+        "url": "https://resultexames.hemolabor.com.br/LaboratorioWeb/indexLaboratorio.jsp",
+        "erro": "Target page, context or browser has been closed"
+    },
+    {
+        "frame_index": 1,
+        "url": "https://resultexames.hemolabor.com.br/LaboratorioWeb/wheb_cabecalho.jsp",
+        "erro": "Target page, context or browser has been closed"
+    },
+    {
+        "frame_index": 2,
+        "url": "https://resultexames.hemolabor.com.br/LaboratorioWeb/loginLaboratorio.jsp?dsBanco=",
+        "erro": "Target page, context or browser has been closed"
+    },
+    {
+        "frame_index": 3,
+        "url": "https://resultexames.hemolabor.com.br/Wheb_Config/wheb_rodape.jsp",
+        "erro": "Target page, context or browser has been closed"
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "url": "https://resultexames.hemolabor.com.br/LaboratorioWeb/indexLaboratorio.jsp",
+        "title": "Resultado Laboratório",
+        "text": "",
+        "inputs": [],
+        "buttons": [],
+        "frame_index": 0
+    },
+    {
+        "url": "https://resultexames.hemolabor.com.br/LaboratorioWeb/wheb_cabecalho.jsp",
+        "title": "",
+        "text": "",
+        "inputs": [],
+        "buttons": [],
+        "frame_index": 1
+    },
+    {
+        "url": "https://resultexames.hemolabor.com.br/LaboratorioWeb/loginUsuario.action",
+        "title": "",
+        "text": "Período:\t\taté\t\t\t\n\tProcedência: Recep Lab Coração de Goiás\tPaciente: \nEscolha o atendimento para ver as prescrições\nNúmero do Atendimento\tData\tPaciente\tMédico\tConsultar\n3657535\t08/05/2026 06:31:03\tMarcelo de Faria Alves\tWilson Torrano\tConsultar\n3657533\t08/05/2026 06:24:29\tMateus Rodrigues Ramos\tWilson Torrano\tConsultar\n3657532\t08/05/2026 06:13:44\tTania Maria Fernandes Almeida\tWilson Torrano\tConsultar\n3656644\t08/05/2026 06:00:00\tValtenes Pereira dos Santos\tLuigi Stefanni Griggi\tConsultar\n3657526\t08/05/2026 03:23:50\tLuiz Feliphe Santos Teixeira\tWilson Torrano\tConsultar\n3657523\t08/05/2026 02:42:52\tAguimar Vieira Pinto\tWilson Torrano\tConsultar\n3657519\t08/05/2026 02:28:27\tMaria de Lourdes Bezerra Magalhaes\tWilson Torrano\tConsultar\n3657518\t08/05/2026 01:57:35\tGeni Ducas Quintino\tLucas S E Sal Barcelo\tConsultar\n3639467\t08/05/2026 00:00:00\tMariozete Pereira de Godoi\tLucas S E Sal Barcelo\tConsultar\n3643095\t08/05/2026 00:00:00\tPedro Alves Barbosa\tGraciely Fernandes da Silva\tConsultar\n3644663\t08/05/2026 00:00:00\tJoao Barbosa de Oliveira\tBianca Borges Butterby\tConsultar\n3651373\t08/05/2026 00:00:00\tJoaquim Vaz da Costa\tBianca Borges Butterby\tConsultar\n3653436\t08/05/2026 00:00:00\tDivino Jose Rodrigues\tBianca Borges Butterby\tConsultar\n3654163\t08/05/2026 00:00:00\tArmando Antonio Mendanha\tGraciely Fernandes da Silva\tConsultar\n3654820\t08/05/2026 00:00:00\tElpidia Honoria de Rezende Alves\tBianca Borges Butterby\tConsultar\n3655635\t08/05/2026 00:00:00\tNelson Lourenco de Sousa\tGraciely Fernandes da Silva\tConsultar\n3656644\t08/05/2026 00:00:00\tValtenes Pereira dos Santos\tBianca Borges Butterby\tConsultar\n3656644\t08/05/2026 00:00:00\tValtenes Pereira dos Santos\tLuigi Stefanni Griggi\tConsultar\n3657471\t08/05/2026 00:00:00\tAlmir Rosa Correa\tLucas S E Sal Barcelo\tConsultar\n3657496\t08/05/2026 00:00:00\tWalsio Guimaraes Nascimento\tBianca Borges Butterby\tConsultar\n3657502\t08/05/2026 00:00:00\tSaramar Mendes de Sousa Generozo\tLeticia Santiago E Sal Barcelos\tConsultar\n3657503\t08/05/2026 00:00:00\tWalsio Guimaraes Nascimento\tBianca Borges Butterby\tConsultar\n3657505\t08/05/2026 00:00:00\tMaria Paula de Assis Linhares\tGraciely Fernandes da Silva\tConsultar\n3657501\t07/05/2026 23:25:33\tLianara Alves Rocha Honorato\tWilson Torrano\tConsultar\n3639467\t07/05/2026 23:17:32\tMariozete Pereira de Godoi\tLucas S E Sal Barcelo\tConsultar\n3657482\t07/05/2026 23:14:15\tSinomar Martins Veloso\tWilson Torrano\tConsultar\n3657475\t07/05/2026 22:32:25\tAllana Lopes de Oliveira\tWilson Torrano\tConsultar\n3657484\t07/05/2026 21:58:36\tAlciene Alves Pereira\tWilson Torrano\tConsultar\n3657482\t07/05/2026 21:48:07\tSinomar Martins Veloso\tWilson Torrano\tConsultar\n3657480\t07/05/2026 21:34:37\tPedro Mendes Campos\tWilson Torrano\tConsultar\n3655685\t07/05/2026 21:06:50\tCleonice Candida de Oliveira E Silva\tMariana Prates Batista Tambury\tConsultar\n3654705\t07/05/2026 21:02:37\tIlza Alves de Resende\tThiago de Souza Veiga Jardim\tConsultar\n3653234\t07/05/2026 20:59:18\tPerola Ivo Ribeiro\tThiago de Souza Veiga Jardim\tConsultar\n3657476\t07/05/2026 20:44:06\tLuzamar Aparecida Gomes da Mota\tWilson Torrano\tConsultar\n3657475\t07/05/2026 20:33:44\tAllana Lopes de Oliveira\tWilson Torrano\tConsultar\n3657474\t07/05/2026 20:18:00\tInara Ruth de Souza Santos\tLeticia Lacerda Cardoso\tConsultar\n3656599\t07/05/2026 20:12:14\tMaria Ramos da Silva\tGraciely Fernandes da Silva\tConsultar\n3657471\t07/05/2026 20:10:02\tAlmir Rosa Correa\tSara Lorentino Ribeiro\tConsultar\n3657468\t07/05/2026 19:51:55\tRodolfo Tavares de Moura\tLeticia Lacerda Cardoso\tConsultar\n3657462\t07/05/2026 19:45:43\tOmar Scalon Botosso Filho\tLeticia Lacerda Cardoso\tConsultar\n3657462\t07/05/2026 19:18:09\tOmar Scalon Botosso Filho\tLeticia Lacerda Cardoso\tConsultar\n3657460\t07/05/2026 18:53:16\tTulio Carvalho Costa\tLeticia Lacerda Cardoso\tConsultar\n3657458\t07/05/2026 18:51:23\tTulio Carvalho Costa\tLeticia Lacerda Cardoso\tConsultar\n3657451\t07/05/2026 18:19:41\tNorma Borges de Oliveira\tGeovana Cardoso Amorim\tConsultar\n3657449\t07/05/2026 18:13:01\tDivina Dias de Souza Correa\tLeticia Lacerda Cardoso\tConsultar\n3656644\t07/05/2026 17:57:00\tValtenes Pereira dos Santos\tLuigi Stefanni Griggi\tConsultar\n3657179\t07/05/2026 17:32:55\tMaria Paula de Assis Linhares\tGeovana Cardoso Amorim\tConsultar\n3657405\t07/05/2026 17:08:00\tPriscila Caroline de Sousa Costa\tLeticia Lacerda Cardoso\tConsultar\n3657402\t07/05/2026 17:03:15\tDivina Maria Luiz Correa\tGeovana Cardoso Amorim\tConsultar\n3657400\t07/05/2026 17:00:17\tDivina Maria Luiz Correa\tGeovana Cardoso Amorim\tConsultar\n3657393\t07/05/2026 16:52:38\tAlexandre de Melo Cunha E Silva\tLeticia Lacerda Cardoso\tConsultar\n3657384\t07/05/2026 16:48:11\tFaraides Urzeda de Souza\tGeovana Cardoso Amorim\tConsultar\n3657375\t07/05/2026 16:42:18\tEvania Martins Lima\tLeticia Lacerda Cardoso\tConsultar\n3657364\t07/05/2026 16:33:00\tAmanda Noronha de Oliveira\tLeticia Lacerda Cardoso\tConsultar\n3657348\t07/05/2026 16:29:01\tEmyr do Espirito Santo\tGeovana Cardoso Amorim\tConsultar\n3657324\t07/05/2026 16:14:03\tClaudio Alberto Rodrigues de Souza\tGeovana Cardoso Amorim\tConsultar\n3657283\t07/05/2026 15:55:",
+        "inputs": [
+            {
+                "idx": 0,
+                "type": "text",
+                "name": "dataIni",
+                "id": "dataIni",
+                "value": "01/05/2026",
+                "visible": true
+            },
+            {
+                "idx": 1,
+                "type": "text",
+                "name": "dataFim",
+                "id": "dataFim",
+                "value": "08/05/2026",
+                "visible": true
+            },
+            {
+                "idx": 2,
+                "type": "submit",
+                "name": "",
+                "id": "",
+                "value": "Consultar",
+                "visible": true
+            },
+            {
+                "idx": 3,
+                "type": "text",
+                "name": "localizar",
+                "id": "localizar",
+                "value": "",
+                "visible": true
+            }
+        ],
+        "buttons": [
+            {
+                "idx": 0,
+                "tag": "INPUT",
+                "type": "submit",
+                "name": "",
+                "id": "",
+                "value": "Consultar",
+                "text": "Consultar",
+                "href": "",
+                "visible": true
+            }
+        ],
+        "frame_index": 2
+    },
+    {
+        "url": "https://resultexames.hemolabor.com.br/Wheb_Config/wheb_rodape.jsp",
+        "title": "",
+        "text": "Hemolabor - R. 5A, 90 - St Aeroporto - 74075-210 - Goiania GO - Fone: (62) 3605-6600 -",
+        "inputs": [],
+        "buttons": [
+            {
+                "idx": 0,
+                "tag": "A",
+                "type": "",
+                "name": "",
+                "id": "",
+                "value": "",
+                "text": "Hemolabor",
+                "href": "https://www.hemolabor.com.br/index.php",
+                "visible": true
+            },
+            {
+                "idx": 1,
+                "tag": "A",
+                "type": "",
+                "name": "",
+                "id": "",
+                "value": "",
+                "text": "",
+                "href": "mailto:",
+                "visible": true
+            }
+        ],
+        "frame_index": 3
+    },
+    {
+        "url": "https://resultexames.hemolabor.com.br/LaboratorioWeb/wheb_menuAtend.jsp",
+        "title": "",
+        "text": "Menu\nPrivacidade e segurança",
+        "inputs": [],
+        "buttons": [],
+        "frame_index": 4
+    }
+]

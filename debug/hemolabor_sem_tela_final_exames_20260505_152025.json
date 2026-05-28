@@ -1,0 +1,671 @@
+[
+    {
+        "url": "https://resultexames.hemolabor.com.br/LaboratorioWeb/indexLaboratorio.jsp",
+        "title": "Resultado Laboratório",
+        "text": "",
+        "inputs": [],
+        "buttons": [],
+        "frame_index": 0
+    },
+    {
+        "url": "https://resultexames.hemolabor.com.br/LaboratorioWeb/wheb_cabecalho.jsp",
+        "title": "",
+        "text": "",
+        "inputs": [],
+        "buttons": [],
+        "frame_index": 1
+    },
+    {
+        "url": "https://resultexames.hemolabor.com.br/LaboratorioWeb/loginLaboratorio.jsp",
+        "title": "",
+        "text": "AtendimentoPacienteCredenciado / Médico\n\n\nLOGIN\n \nCPF\t\nSenha\t\n\n\n\n\nEsqueci minha senha\n\n\n",
+        "inputs": [
+            {
+                "idx": 0,
+                "type": "radio",
+                "name": "consulta",
+                "id": "radio-atend",
+                "value": "atendimento",
+                "visible": true
+            },
+            {
+                "idx": 1,
+                "type": "radio",
+                "name": "consulta",
+                "id": "radio-paciente",
+                "value": "paciente",
+                "visible": true
+            },
+            {
+                "idx": 2,
+                "type": "radio",
+                "name": "consulta",
+                "id": "radio-medico",
+                "value": "credenciado",
+                "visible": true
+            },
+            {
+                "idx": 3,
+                "type": "text",
+                "name": "nmUsuario",
+                "id": "nmUsuario",
+                "value": "",
+                "visible": false
+            },
+            {
+                "idx": 4,
+                "type": "password",
+                "name": "dsSenha",
+                "id": "dsSenha",
+                "value": "***",
+                "visible": false
+            },
+            {
+                "idx": 5,
+                "type": "hidden",
+                "name": "navegadorFirefox",
+                "id": "",
+                "value": "-1",
+                "visible": false
+            },
+            {
+                "idx": 6,
+                "type": "hidden",
+                "name": "navegadorIE",
+                "id": "",
+                "value": "-1",
+                "visible": false
+            },
+            {
+                "idx": 7,
+                "type": "hidden",
+                "name": "cdEstabLaboratorio",
+                "id": "",
+                "value": "",
+                "visible": false
+            },
+            {
+                "idx": 8,
+                "type": "hidden",
+                "name": "bancoSelecionado",
+                "id": "bancoSelecionado",
+                "value": "WTASY",
+                "visible": false
+            },
+            {
+                "idx": 9,
+                "type": "hidden",
+                "name": "obrigaRecaptcha",
+                "id": "obrigaRecaptcha_atendimento",
+                "value": "false",
+                "visible": false
+            },
+            {
+                "idx": 10,
+                "type": "submit",
+                "name": "",
+                "id": "",
+                "value": "Acessar",
+                "visible": false
+            },
+            {
+                "idx": 11,
+                "type": "hidden",
+                "name": "ieFormaLoginPaciente",
+                "id": "ieFormaLoginPaciente",
+                "value": "CPF",
+                "visible": false
+            },
+            {
+                "idx": 12,
+                "type": "text",
+                "name": "nmUsuario",
+                "id": "nmUsuario",
+                "value": "",
+                "visible": true
+            },
+            {
+                "idx": 13,
+                "type": "password",
+                "name": "dsSenha",
+                "id": "dsSenha",
+                "value": "***",
+                "visible": true
+            },
+            {
+                "idx": 14,
+                "type": "hidden",
+                "name": "navegadorFirefox",
+                "id": "",
+                "value": "-1",
+                "visible": false
+            },
+            {
+                "idx": 15,
+                "type": "hidden",
+                "name": "navegadorIE",
+                "id": "",
+                "value": "-1",
+                "visible": false
+            },
+            {
+                "idx": 16,
+                "type": "hidden",
+                "name": "cdEstabLaboratorio",
+                "id": "",
+                "value": "",
+                "visible": false
+            },
+            {
+                "idx": 17,
+                "type": "hidden",
+                "name": "dtNascimento",
+                "id": "dtNascimento",
+                "value": "",
+                "visible": false
+            },
+            {
+                "idx": 18,
+                "type": "hidden",
+                "name": "obrigaDataNascimentoPaciente",
+                "id": "",
+                "value": "false",
+                "visible": false
+            },
+            {
+                "idx": 19,
+                "type": "hidden",
+                "name": "bancoSelecionado",
+                "id": "bancoSelecionado",
+                "value": "WTASY",
+                "visible": false
+            },
+            {
+                "idx": 20,
+                "type": "hidden",
+                "name": "obrigaRecaptcha",
+                "id": "obrigaRecaptcha_paciente",
+                "value": "false",
+                "visible": false
+            },
+            {
+                "idx": 21,
+                "type": "hidden",
+                "name": "loginTotvs",
+                "id": "",
+                "value": "+isLoginTotvs+",
+                "visible": false
+            },
+            {
+                "idx": 22,
+                "type": "submit",
+                "name": "",
+                "id": "",
+                "value": "Acessar",
+                "visible": true
+            },
+            {
+                "idx": 23,
+                "type": "radio",
+                "name": "opcaoMedico",
+                "id": "",
+                "value": "C",
+                "visible": false
+            },
+            {
+                "idx": 24,
+                "type": "radio",
+                "name": "opcaoMedico",
+                "id": "",
+                "value": "P",
+                "visible": false
+            },
+            {
+                "idx": 25,
+                "type": "text",
+                "name": "nmUsuario",
+                "id": "",
+                "value": "",
+                "visible": false
+            },
+            {
+                "idx": 26,
+                "type": "text",
+                "name": "nrCrm",
+                "id": "nrCrm",
+                "value": "",
+                "visible": false
+            },
+            {
+                "idx": 27,
+                "type": "text",
+                "name": "ufCrm",
+                "id": "ufCrm",
+                "value": "",
+                "visible": false
+            },
+            {
+                "idx": 28,
+                "type": "text",
+                "name": "cdConvenio",
+                "id": "",
+                "value": "",
+                "visible": false
+            },
+            {
+                "idx": 29,
+                "type": "text",
+                "name": "cdProcedencia",
+                "id": "",
+                "value": "",
+                "visible": false
+            },
+            {
+                "idx": 30,
+                "type": "text",
+                "name": "cdConvenioCat",
+                "id": "",
+                "value": "",
+                "visible": false
+            },
+            {
+                "idx": 31,
+                "type": "text",
+                "name": "cdCategoria",
+                "id": "",
+                "value": "",
+                "visible": false
+            },
+            {
+                "idx": 32,
+                "type": "password",
+                "name": "dsSenha",
+                "id": "dsSenhaCred",
+                "value": "***",
+                "visible": false
+            },
+            {
+                "idx": 33,
+                "type": "hidden",
+                "name": "navegadorFirefox",
+                "id": "",
+                "value": "-1",
+                "visible": false
+            },
+            {
+                "idx": 34,
+                "type": "hidden",
+                "name": "navegadorIE",
+                "id": "",
+                "value": "-1",
+                "visible": false
+            },
+            {
+                "idx": 35,
+                "type": "hidden",
+                "name": "cdEstabLaboratorio",
+                "id": "",
+                "value": "",
+                "visible": false
+            },
+            {
+                "idx": 36,
+                "type": "hidden",
+                "name": "bancoSelecionado",
+                "id": "bancoSelecionado",
+                "value": "WTASY",
+                "visible": false
+            },
+            {
+                "idx": 37,
+                "type": "hidden",
+                "name": "obrigaRecaptcha",
+                "id": "obrigaRecaptcha_credenciado",
+                "value": "false",
+                "visible": false
+            },
+            {
+                "idx": 38,
+                "type": "hidden",
+                "name": "loginTotvs",
+                "id": "",
+                "value": "+isLoginTotvs+",
+                "visible": false
+            },
+            {
+                "idx": 39,
+                "type": "submit",
+                "name": "",
+                "id": "",
+                "value": "Acessar",
+                "visible": false
+            },
+            {
+                "idx": 40,
+                "type": "hidden",
+                "name": "nrCrmExterno",
+                "id": "nrCrmExterno",
+                "value": "",
+                "visible": false
+            },
+            {
+                "idx": 41,
+                "type": "hidden",
+                "name": "ufCrmExterno",
+                "id": "ufCrmExterno",
+                "value": "",
+                "visible": false
+            },
+            {
+                "idx": 42,
+                "type": "hidden",
+                "name": "dsSenhaExterno",
+                "id": "dsSenhaExterno",
+                "value": "",
+                "visible": false
+            },
+            {
+                "idx": 43,
+                "type": "hidden",
+                "name": "opcaoMedicoExterno",
+                "id": "opcaoMedicoExterno",
+                "value": "",
+                "visible": false
+            },
+            {
+                "idx": 44,
+                "type": "text",
+                "name": "dsLogin",
+                "id": "dsLogin",
+                "value": "",
+                "visible": false
+            },
+            {
+                "idx": 45,
+                "type": "password",
+                "name": "dsSenha",
+                "id": "dsSenha",
+                "value": "***",
+                "visible": false
+            },
+            {
+                "idx": 46,
+                "type": "hidden",
+                "name": "navegadorFirefox",
+                "id": "",
+                "value": "-1",
+                "visible": false
+            },
+            {
+                "idx": 47,
+                "type": "hidden",
+                "name": "navegadorIE",
+                "id": "",
+                "value": "-1",
+                "visible": false
+            },
+            {
+                "idx": 48,
+                "type": "hidden",
+                "name": "cdEstabLaboratorio",
+                "id": "",
+                "value": "",
+                "visible": false
+            },
+            {
+                "idx": 49,
+                "type": "hidden",
+                "name": "bancoSelecionado",
+                "id": "bancoSelecionado",
+                "value": "WTASY",
+                "visible": false
+            },
+            {
+                "idx": 50,
+                "type": "hidden",
+                "name": "obrigaRecaptcha",
+                "id": "obrigaRecaptcha_pacInst",
+                "value": "false",
+                "visible": false
+            },
+            {
+                "idx": 51,
+                "type": "submit",
+                "name": "",
+                "id": "",
+                "value": "Acessar",
+                "visible": false
+            },
+            {
+                "idx": 52,
+                "type": "text",
+                "name": "nmUsuario",
+                "id": "nmUsuario",
+                "value": "",
+                "visible": false
+            },
+            {
+                "idx": 53,
+                "type": "password",
+                "name": "dsSenha",
+                "id": "dsSenha",
+                "value": "***",
+                "visible": false
+            },
+            {
+                "idx": 54,
+                "type": "hidden",
+                "name": "navegadorFirefox",
+                "id": "",
+                "value": "-1",
+                "visible": false
+            },
+            {
+                "idx": 55,
+                "type": "hidden",
+                "name": "navegadorIE",
+                "id": "",
+                "value": "-1",
+                "visible": false
+            },
+            {
+                "idx": 56,
+                "type": "hidden",
+                "name": "cdEstabLaboratorio",
+                "id": "",
+                "value": "",
+                "visible": false
+            },
+            {
+                "idx": 57,
+                "type": "hidden",
+                "name": "bancoSelecionado",
+                "id": "bancoSelecionado",
+                "value": "WTASY",
+                "visible": false
+            },
+            {
+                "idx": 58,
+                "type": "hidden",
+                "name": "obrigaRecaptcha",
+                "id": "obrigaRecaptcha_instituicao",
+                "value": "false",
+                "visible": false
+            },
+            {
+                "idx": 59,
+                "type": "submit",
+                "name": "",
+                "id": "",
+                "value": "Acessar",
+                "visible": false
+            }
+        ],
+        "buttons": [
+            {
+                "idx": 0,
+                "tag": "A",
+                "type": "",
+                "name": "",
+                "id": "",
+                "value": "",
+                "text": "",
+                "href": "javascript:",
+                "visible": true
+            },
+            {
+                "idx": 1,
+                "tag": "INPUT",
+                "type": "submit",
+                "name": "",
+                "id": "",
+                "value": "Acessar",
+                "text": "Acessar",
+                "href": "",
+                "visible": false
+            },
+            {
+                "idx": 2,
+                "tag": "A",
+                "type": "",
+                "name": "",
+                "id": "",
+                "value": "",
+                "text": "Esqueci minha senha",
+                "href": "javascript:openRecuperarSenha('A')",
+                "visible": false
+            },
+            {
+                "idx": 3,
+                "tag": "INPUT",
+                "type": "submit",
+                "name": "",
+                "id": "",
+                "value": "Acessar",
+                "text": "Acessar",
+                "href": "",
+                "visible": true
+            },
+            {
+                "idx": 4,
+                "tag": "A",
+                "type": "",
+                "name": "",
+                "id": "",
+                "value": "",
+                "text": "Esqueci minha senha",
+                "href": "javascript:openRecuperarSenha('PCPF')",
+                "visible": true
+            },
+            {
+                "idx": 5,
+                "tag": "INPUT",
+                "type": "submit",
+                "name": "",
+                "id": "",
+                "value": "Acessar",
+                "text": "Acessar",
+                "href": "",
+                "visible": false
+            },
+            {
+                "idx": 6,
+                "tag": "A",
+                "type": "",
+                "name": "",
+                "id": "esqueciSenhaCRM",
+                "value": "",
+                "text": "Esqueci minha senha",
+                "href": "javascript:openRecuperarSenha('CRM')",
+                "visible": false
+            },
+            {
+                "idx": 7,
+                "tag": "INPUT",
+                "type": "submit",
+                "name": "",
+                "id": "",
+                "value": "Acessar",
+                "text": "Acessar",
+                "href": "",
+                "visible": false
+            },
+            {
+                "idx": 8,
+                "tag": "A",
+                "type": "",
+                "name": "",
+                "id": "",
+                "value": "",
+                "text": "Esqueci minha senha",
+                "href": "javascript:openRecuperarSenha('PINST')",
+                "visible": false
+            },
+            {
+                "idx": 9,
+                "tag": "INPUT",
+                "type": "submit",
+                "name": "",
+                "id": "",
+                "value": "Acessar",
+                "text": "Acessar",
+                "href": "",
+                "visible": false
+            },
+            {
+                "idx": 10,
+                "tag": "A",
+                "type": "",
+                "name": "",
+                "id": "",
+                "value": "",
+                "text": "Esqueci minha senha",
+                "href": "javascript:openRecuperarSenha('INST')",
+                "visible": false
+            },
+            {
+                "idx": 11,
+                "tag": "A",
+                "type": "",
+                "name": "",
+                "id": "",
+                "value": "",
+                "text": "Como habilito os cookies?",
+                "href": "http://www.google.com.br/search?q=habilitar+cookies",
+                "visible": false
+            }
+        ],
+        "frame_index": 2
+    },
+    {
+        "url": "https://resultexames.hemolabor.com.br/Wheb_Config/wheb_rodape.jsp",
+        "title": "",
+        "text": "Hemolabor - R. 5A, 90 - St Aeroporto - 74075-210 - Goiania GO - Fone: (62) 3605-6600 -",
+        "inputs": [],
+        "buttons": [
+            {
+                "idx": 0,
+                "tag": "A",
+                "type": "",
+                "name": "",
+                "id": "",
+                "value": "",
+                "text": "Hemolabor",
+                "href": "https://www.hemolabor.com.br/index.php",
+                "visible": true
+            },
+            {
+                "idx": 1,
+                "tag": "A",
+                "type": "",
+                "name": "",
+                "id": "",
+                "value": "",
+                "text": "",
+                "href": "mailto:",
+                "visible": true
+            }
+        ],
+        "frame_index": 3
+    }
+]

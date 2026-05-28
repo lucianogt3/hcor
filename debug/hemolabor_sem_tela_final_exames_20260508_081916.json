@@ -1,0 +1,57 @@
+[
+    {
+        "url": "https://resultexames.hemolabor.com.br/LaboratorioWeb/indexLaboratorio.jsp",
+        "title": "Resultado Laboratório",
+        "text": "",
+        "inputs": [],
+        "buttons": [],
+        "frame_index": 0
+    },
+    {
+        "url": "https://resultexames.hemolabor.com.br/LaboratorioWeb/wheb_cabecalho.jsp",
+        "title": "",
+        "text": "",
+        "inputs": [],
+        "buttons": [],
+        "frame_index": 1
+    },
+    {
+        "url": "https://resultexames.hemolabor.com.br/LaboratorioWeb/consultarPrescricoesAbertas.action?nrAtendimento=3657533&libProcessando=0&mostrarLaudo=true",
+        "title": "",
+        "text": "",
+        "inputs": [],
+        "buttons": [],
+        "frame_index": 2
+    },
+    {
+        "url": "https://resultexames.hemolabor.com.br/Wheb_Config/wheb_rodape.jsp",
+        "title": "",
+        "text": "Hemolabor - R. 5A, 90 - St Aeroporto - 74075-210 - Goiania GO - Fone: (62) 3605-6600 -",
+        "inputs": [],
+        "buttons": [
+            {
+                "idx": 0,
+                "tag": "A",
+                "type": "",
+                "name": "",
+                "id": "",
+                "value": "",
+                "text": "Hemolabor",
+                "href": "https://www.hemolabor.com.br/index.php",
+                "visible": true
+            },
+            {
+                "idx": 1,
+                "tag": "A",
+                "type": "",
+                "name": "",
+                "id": "",
+                "value": "",
+                "text": "",
+                "href": "mailto:",
+                "visible": true
+            }
+        ],
+        "frame_index": 3
+    }
+]
